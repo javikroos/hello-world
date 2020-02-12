@@ -1,0 +1,55 @@
+/* Hello World CSS */
+
+/* Very important don't forget to validate at https://jigsaw.w3.org/css-validator/ */
+
+body  {
+      font-size: 10px;
+      height:100vh;
+}
+
+h1  {
+    color:white;
+}
+#hello-people-column1 {
+  background-size: cover;
+  background-image: url(space.jpg);
+}
+#hello-people-column2 {
+  background-size: cover;
+  background-image: url(field.jpg);
+}
+
+p {
+  font-size:3em;
+  color: red;
+}
+
+#wheel-chair {
+    color:red;
+    font-size: 13em;
+}
+
+#arch {
+    color:yellow;
+    font-size: 40em;
+    text-align: center;
+    width:100%;
+}
+
+#brain{
+  width: 220px;
+  height:180px;
+}
+
+#computer{
+  width: 220px;
+  height:180px;
+}
+#imagination{
+  width: 220px;
+  height:180px;
+}
+#panel{
+  width: 220px;
+  height:180px;
+}
