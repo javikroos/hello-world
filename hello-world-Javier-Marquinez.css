@@ -13,20 +13,17 @@ h1  {
 #hello-people-column1 {
   background-size: cover;
   background-image: url(space.jpg);
+  height: 135vh;
 }
 #hello-people-column2 {
   background-size: cover;
   background-image: url(field.jpg);
+  height:135vh;
 }
 
 p {
   font-size:3em;
   color: red;
-}
-
-#wheel-chair {
-    color:red;
-    font-size: 13em;
 }
 
 #arch {
@@ -40,6 +37,10 @@ p {
   width: 220px;
   height:180px;
 }
+#duck{
+  width: 220px;
+  height:180px;
+}
 
 #computer{
   width: 220px;
@@ -50,6 +51,9 @@ p {
   height:180px;
 }
 #panel{
+  position: absolute;
+  left: 200px;
+  top: 150px;
   width: 220px;
   height:180px;
 }
